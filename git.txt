@@ -1,0 +1,17 @@
+添加  FLUTTER_STORAGE_BASE_URL  变量
+ 
+- 在「系统变量」下方点击「新建」按钮。
+​
+- 变量名：输入  FLUTTER_STORAGE_BASE_URL （严格区分大小写，必须与名称完全一致）。
+​
+- 变量值：输入  https://storage.flutter-io.cn （直接填写镜像地址，不要带等号或其他符号）。
+​
+- 点击「确定」保存。
+ 
+3. 添加  PUB_HOSTED_URL  变量
+ 
+- 再次点击「新建」按钮。
+​
+- 变量名：输入  PUB_HOSTED_URL 。
+​
+- 变量值：输入  https://pub.flutter-io.cn 。
